@@ -1,0 +1,9 @@
+/Users/fernandopimenta/intelig/SpringDataRedisSample/src/main/java/com/sample/controller/UserController.java
+/Users/fernandopimenta/intelig/SpringDataRedisSample/src/main/java/com/sample/AuthorizationApplication.java
+/Users/fernandopimenta/intelig/SpringDataRedisSample/src/main/java/com/sample/dal/User.java
+/Users/fernandopimenta/intelig/SpringDataRedisSample/src/main/java/com/sample/service/AuthorizationService.java
+/Users/fernandopimenta/intelig/SpringDataRedisSample/src/main/java/com/sample/dal/UserSprRepository.java
+/Users/fernandopimenta/intelig/SpringDataRedisSample/src/main/java/com/sample/service/AuthorizationServiceImpl.java
+/Users/fernandopimenta/intelig/SpringDataRedisSample/src/main/java/com/sample/dal/UserDao.java
+/Users/fernandopimenta/intelig/SpringDataRedisSample/src/main/java/com/sample/dal/RedisConfig.java
+/Users/fernandopimenta/intelig/SpringDataRedisSample/src/main/java/com/sample/dal/UserDaoImpl.java
